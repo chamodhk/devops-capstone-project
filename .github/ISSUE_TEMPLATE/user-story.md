@@ -1,4 +1,10 @@
-
+---
+name: User Story
+about: Create a user story for the accounts microservice backlog
+title: "[USER STORY] "
+labels: ''
+assignees: ''
+---
 
 **As a** [role]  
 **I need** [function]  
